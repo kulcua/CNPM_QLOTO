@@ -1,0 +1,65 @@
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QLOTGUI.csprojAssemblyReference.cache
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTiepNhanXeSua.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPhieuSuaChua.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTraCuuXe.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPhieuThuTien.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBCDoanhSo.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBCTon.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThayDoiQD.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.GenerateResource.cache
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.CoreCompileInputs.cache
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Doc\CNPM\cnpm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\QLOTBUS.dll
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDTO.dll
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDAL.dll
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\QLOTBUS.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDTO.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDAL.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csprojAssemblyReference.cache
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTiepNhanXeSua.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPhieuSuaChua.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTraCuuXe.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPhieuThuTien.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBCDoanhSo.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBCTon.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThayDoiQD.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.GenerateResource.cache
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.CoreCompileInputs.cache
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.CopyComplete
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kul Cua\Desktop\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csprojAssemblyReference.cache
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTiepNhanXeSua.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPhieuSuaChua.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTraCuuXe.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPhieuThuTien.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBCDoanhSo.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBCTon.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThayDoiQD.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.GenerateResource.cache
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.CoreCompileInputs.cache
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\QLOTBUS.dll
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDAL.dll
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDTO.dll
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\QLOTBUS.pdb
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDAL.pdb
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\bin\Debug\QLOTDTO.pdb
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\QLOTGUI.csproj.CopyComplete
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLyHieuXe.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLyVTPT.resources
+D:\Doc\CNPM\QLOTO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLyTienCong.resources

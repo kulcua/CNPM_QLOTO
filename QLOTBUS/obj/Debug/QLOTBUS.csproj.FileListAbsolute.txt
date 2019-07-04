@@ -1,0 +1,22 @@
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\bin\Debug\QLOTBUS.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\bin\Debug\QLOTBUS.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\bin\Debug\QLOTDAL.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\bin\Debug\QLOTDTO.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\bin\Debug\QLOTDAL.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\bin\Debug\QLOTDTO.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.csprojAssemblyReference.cache
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.csproj.CoreCompileInputs.cache
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.csproj.CopyComplete
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.pdb
+D:\Doc\CNPM\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.csprojAssemblyReference.cache
+D:\Doc\CNPM\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.csproj.CoreCompileInputs.cache
+D:\Doc\CNPM\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.dll
+D:\Doc\CNPM\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.pdb
+D:\Doc\CNPM\QLOTO\QLOTBUS\bin\Debug\QLOTBUS.dll
+D:\Doc\CNPM\QLOTO\QLOTBUS\bin\Debug\QLOTBUS.pdb
+D:\Doc\CNPM\QLOTO\QLOTBUS\bin\Debug\QLOTDAL.dll
+D:\Doc\CNPM\QLOTO\QLOTBUS\bin\Debug\QLOTDTO.dll
+D:\Doc\CNPM\QLOTO\QLOTBUS\bin\Debug\QLOTDAL.pdb
+D:\Doc\CNPM\QLOTO\QLOTBUS\bin\Debug\QLOTDTO.pdb
+D:\Doc\CNPM\QLOTO\QLOTBUS\obj\Debug\QLOTBUS.csproj.CopyComplete

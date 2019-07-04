@@ -1,0 +1,1 @@
+SQLCMD -S KULCUA -E -i scriptQLoto.sql

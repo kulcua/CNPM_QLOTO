@@ -1,0 +1,12 @@
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDTO\bin\Debug\QLOTDTO.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDTO\bin\Debug\QLOTDTO.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.csproj.CoreCompileInputs.cache
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.csprojAssemblyReference.cache
+D:\Doc\CNPM\QLOTO\QLOTDTO\bin\Debug\QLOTDTO.dll
+D:\Doc\CNPM\QLOTO\QLOTDTO\bin\Debug\QLOTDTO.pdb
+D:\Doc\CNPM\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.csprojAssemblyReference.cache
+D:\Doc\CNPM\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.csproj.CoreCompileInputs.cache
+D:\Doc\CNPM\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.dll
+D:\Doc\CNPM\QLOTO\QLOTDTO\obj\Debug\QLOTDTO.pdb

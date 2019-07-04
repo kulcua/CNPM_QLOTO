@@ -1,0 +1,18 @@
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\bin\Debug\QLOTDAL.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\bin\Debug\QLOTDAL.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\bin\Debug\QLOTDTO.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\bin\Debug\QLOTDTO.pdb
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.csprojAssemblyReference.cache
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.csproj.CoreCompileInputs.cache
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.csproj.CopyComplete
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.dll
+C:\Users\Kul Cua\Desktop\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.pdb
+D:\Doc\CNPM\QLOTO\QLOTDAL\bin\Debug\QLOTDAL.dll
+D:\Doc\CNPM\QLOTO\QLOTDAL\bin\Debug\QLOTDAL.pdb
+D:\Doc\CNPM\QLOTO\QLOTDAL\bin\Debug\QLOTDTO.dll
+D:\Doc\CNPM\QLOTO\QLOTDAL\bin\Debug\QLOTDTO.pdb
+D:\Doc\CNPM\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.csprojAssemblyReference.cache
+D:\Doc\CNPM\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.csproj.CoreCompileInputs.cache
+D:\Doc\CNPM\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.csproj.CopyComplete
+D:\Doc\CNPM\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.dll
+D:\Doc\CNPM\QLOTO\QLOTDAL\obj\Debug\QLOTDAL.pdb
